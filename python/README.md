@@ -51,6 +51,27 @@
 | `07_bitwise_operators.py` | Bitwise operators examples |
 
 
+
+## Day 02 - Python Conditions
+
+### What I Learned Today
+
+- `if` statement in Python
+- `if-else` statement
+- `if-elif-else` ladder
+- Nested `if` statements
+- Decision making in Python programs
+
+---
+
+### Files in Day 02
+
+| File | Description |
+|------|-------------|
+| `01_if_statement.py` | Basic if statement example |
+| `02_if_else.py` | if-else condition example |
+| `03_if_elif_else.py` | Multiple conditions using if-elif-else |
+| `04_nested_if.py` | Nested if statements example |
 ---
 
 ## Goal
